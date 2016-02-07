@@ -9,6 +9,8 @@ This is a (very) simple app to get the `bloc-data` npm module working. A tour:
 
 ## The Challenge
 
+The goal is to give any app the ability to import and use our frontend data models, contained in the bloc-data npm package.
+
 1. Clone the `bloc-data` repo: `git clone git@github.com:Bloc/bloc-data.git`
 2. Add as a dependency in this repository in `package.json`:
 
