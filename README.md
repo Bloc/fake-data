@@ -1,6 +1,6 @@
 # Fake Data
 
-This is a (very) simple app to get the `bloc-data` npm module working. A tour:
+This is a (very) simple app to get the [bloc-data](https://github.com/bloc/bloc-data) npm module working. A tour:
 
 - `index.js` - just imports bloc-data
 - `webpack.config.js` - run `webpack --config webpack.config.js`
